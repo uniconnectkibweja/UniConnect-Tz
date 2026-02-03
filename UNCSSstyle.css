@@ -41,7 +41,7 @@ body {
 }
 
 .studform {
-    background-color: #374dee;
+    background-color: rgba(101, 159, 8, 0.7);
     padding-bottom: 10px;
     width: 100%;
 }
@@ -106,13 +106,15 @@ input {
     font-size: medium;
 }
 
-h2 {
+.allhead {
     color: rgb(8, 8, 254);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     text-align: center;
     margin-top: auto;
     font-size: 50px;
+    background-color: chartreuse;
+    border-radius: 20px;
 }
 
 .alltitle {
