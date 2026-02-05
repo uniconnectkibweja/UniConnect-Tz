@@ -59,7 +59,7 @@ body {
 }
 
 .contact {
-    color: yellow;
+    color: gold;
     font-size: large;
 }
 
@@ -162,4 +162,17 @@ input {
     color: hotpink;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
+
+.footer {
+    background-color: rgba(16, 140, 189, 0.4);
+    border-style: inset;
+    border-color: #374dee;
+    margin-bottom: 5%;
+    color: white;
+    align-content: center;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    padding: 10px 15px;
 }
