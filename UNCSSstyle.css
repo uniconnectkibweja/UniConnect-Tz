@@ -18,7 +18,10 @@ body {
     text-align: justify;
     line-height: 1.6;
 }
-
+foot{
+    background-color:palevioletred;
+   font-size: 16.5;
+}
 .container {
     background-color: white;
     max-width: 900px;
@@ -101,7 +104,7 @@ body {
 .textarea {
     width: 100%;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 14px;
     border-radius: 5px;
     border: solid;
     border-color: #374dee;
@@ -200,11 +203,30 @@ input {
     padding-bottom: 5px;
     border-bottom: 2px;
 }
-
+.contactform{
+    background-color:rgb(7, 204, 207);
+    color: white;
+    text-align: left;
+    line-height: 3;
+    height: 100vh;
+}
+.contactinput{
+    padding: 10px 5px;
+}
+.contactrow{
+    display: flex;
+}
+.contactcolom1{
+    display: frex;
+    width: 35%;
+}
+.contactcolom2{
+    width: 75%;
+}
 .footer {
     background-color: rgba(8, 12, 13, 0.901);
     border-style: inset;
-    border-color: #374dee;
+    border-color: #37d9ee;
     margin-bottom: 5%;
     color: rgb(255, 255, 255);
     align-content: center;
